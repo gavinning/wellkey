@@ -1,0 +1,27 @@
+{
+  "name": "wellkey",
+  "version": "1.0.0",
+  "description": "短期授权数字签名",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/wellkey.git"
+  },
+  "keywords": [
+    "well",
+    "key"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/wellkey/issues"
+  },
+  "homepage": "https://github.com/gavinning/wellkey#readme",
+  "dependencies": {
+    "md5": "^2.2.1",
+    "uuid": "^3.0.1"
+  }
+}
