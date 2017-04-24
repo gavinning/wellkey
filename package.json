@@ -1,6 +1,6 @@
 {
   "name": "wellkey",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "短期授权数字签名",
   "main": "app.js",
   "scripts": {
