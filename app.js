@@ -13,7 +13,7 @@ class WellKey {
         let timestamp = this.timestamp()
 
         for(let i=0; i<size; i++){
-            arr.push(timestamp+i)
+            arr.push(timestamp-i)
         }
         return arr.sort()
     }
